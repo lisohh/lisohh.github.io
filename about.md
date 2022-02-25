@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nice to meet you!<br/>
+I'm lisohh! and I'm a frontend developer.<br/>
+I wonder about everything.🧐
 
 ### More Information
 
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sohyunlee0902@gmail.com](mailto:sohyunlee0902@gmail.com)
